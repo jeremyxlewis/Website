@@ -2048,6 +2048,8 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
+/* Responsive Youtube */
 .responsive-youtube
 {overflow:hidden; padding-bottom:56.25%; position:relative; height:0;}
 .responsive-youtube iframe
